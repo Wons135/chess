@@ -1,0 +1,68 @@
+﻿  main.cpp
+C:\Users\wonsu\source\repos\ChessCP3\King.h(11,21): warning C4584: 'King': base-class 'Piece' is already a base-class of 'Queen'
+C:\Users\wonsu\source\repos\ChessCP3\Piece.h(5): message : see declaration of 'Piece'
+C:\Users\wonsu\source\repos\ChessCP3\Queen.h(6): message : see declaration of 'Queen'
+C:\Users\wonsu\source\repos\ChessCP3\King.h(11,21): warning C4584: 'King': base-class 'Piece' is already a base-class of 'Rook'
+C:\Users\wonsu\source\repos\ChessCP3\Piece.h(5): message : see declaration of 'Piece'
+C:\Users\wonsu\source\repos\ChessCP3\Rook.h(6): message : see declaration of 'Rook'
+C:\Users\wonsu\source\repos\ChessCP3\King.h(11,21): warning C4584: 'King': base-class 'Piece' is already a base-class of 'Knight'
+C:\Users\wonsu\source\repos\ChessCP3\Piece.h(5): message : see declaration of 'Piece'
+C:\Users\wonsu\source\repos\ChessCP3\Knight.h(6): message : see declaration of 'Knight'
+C:\Users\wonsu\source\repos\ChessCP3\King.h(11,21): warning C4584: 'King': base-class 'Piece' is already a base-class of 'Bishop'
+C:\Users\wonsu\source\repos\ChessCP3\Piece.h(5): message : see declaration of 'Piece'
+C:\Users\wonsu\source\repos\ChessCP3\Bishop.h(6): message : see declaration of 'Bishop'
+C:\Users\wonsu\source\repos\ChessCP3\King.h(11,21): warning C4584: 'King': base-class 'Piece' is already a base-class of 'Pawn'
+C:\Users\wonsu\source\repos\ChessCP3\Piece.h(5): message : see declaration of 'Piece'
+C:\Users\wonsu\source\repos\ChessCP3\Pawn.h(6): message : see declaration of 'Pawn'
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(64,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(64,50): warning C4244:         with
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(64,50): warning C4244:         [
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(64,50): warning C4244:             T=unsigned int
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(64,50): warning C4244:         ]
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(64,29): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(64,29): warning C4244:         with
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(64,29): warning C4244:         [
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(64,29): warning C4244:             T=unsigned int
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(64,29): warning C4244:         ]
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(91,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(92,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(93,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(94,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(95,57): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(96,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(97,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(98,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(99,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(100,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(101,57): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(102,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(103,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(202,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(203,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(301,20): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(309,20): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(512,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(512,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(516,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(516,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(520,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(520,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(524,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(524,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(528,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(528,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(532,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(532,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(536,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(536,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(540,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(540,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(544,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(544,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(548,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(548,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(552,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(552,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(556,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(556,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  ChessCP3.vcxproj -> C:\Users\wonsu\source\repos\ChessCP3\Debug\ChessCP3.exe

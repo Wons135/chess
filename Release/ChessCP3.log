@@ -1,0 +1,35 @@
+﻿  Board.cpp
+  main.cpp
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(18,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(18,50): warning C4244:         with
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(18,50): warning C4244:         [
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(18,50): warning C4244:             T=unsigned int
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(18,50): warning C4244:         ]
+  Menu.cpp
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(18,29): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(18,29): warning C4244:         with
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(18,29): warning C4244:         [
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(18,29): warning C4244:             T=unsigned int
+C:\Users\wonsu\source\repos\ChessCP3\main.cpp(18,29): warning C4244:         ]
+C:\Users\wonsu\source\repos\ChessCP3\Menu.cpp(18,51): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\wonsu\source\repos\ChessCP3\Menu.cpp(18,51): warning C4244:         with
+C:\Users\wonsu\source\repos\ChessCP3\Menu.cpp(18,51): warning C4244:         [
+C:\Users\wonsu\source\repos\ChessCP3\Menu.cpp(18,51): warning C4244:             T=float
+C:\Users\wonsu\source\repos\ChessCP3\Menu.cpp(18,51): warning C4244:         ]
+C:\Users\wonsu\source\repos\ChessCP3\Menu.cpp(23,53): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\wonsu\source\repos\ChessCP3\Menu.cpp(23,53): warning C4244:         with
+C:\Users\wonsu\source\repos\ChessCP3\Menu.cpp(23,53): warning C4244:         [
+C:\Users\wonsu\source\repos\ChessCP3\Menu.cpp(23,53): warning C4244:             T=float
+C:\Users\wonsu\source\repos\ChessCP3\Menu.cpp(23,53): warning C4244:         ]
+  Piece.cpp
+C:\Users\wonsu\source\repos\ChessCP3\Menu.cpp(28,53): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\wonsu\source\repos\ChessCP3\Menu.cpp(28,53): warning C4244:         with
+C:\Users\wonsu\source\repos\ChessCP3\Menu.cpp(28,53): warning C4244:         [
+C:\Users\wonsu\source\repos\ChessCP3\Menu.cpp(28,53): warning C4244:             T=float
+C:\Users\wonsu\source\repos\ChessCP3\Menu.cpp(28,53): warning C4244:         ]
+  Generating code
+  89 of 114 functions (78.1%) were compiled, the rest were copied from previous compilation.
+    88 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ChessCP3.vcxproj -> C:\Users\wonsu\source\repos\ChessCP3\Release\ChessCP3.exe
